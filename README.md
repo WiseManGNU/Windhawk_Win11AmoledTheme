@@ -1,8 +1,11 @@
 <br/>
+
+[banner](https://github.com/WiseManGNU/Windhawk_Win11AmoledTheme/blob/main/assets/banner.png?raw=true)
+
 <p align="center">
-***TODO:*** image here.<br/><br/>
 A simple and short guide on how to make most of the UWP Desktop UI solid-black with Windhawk.
 </p>
+
 <br/>
 <br/>
 
